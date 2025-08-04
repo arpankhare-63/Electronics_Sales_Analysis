@@ -5,7 +5,7 @@ Welcome to my interactive **Sales Dashboard** — designed to give a clear, intu
 
 Whether you're a business leader, data analyst, or just curious — this dashboard makes data feel *alive*.
 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](./ELectronics_Sales/Electronics_sales.png)
 
 ---
 
@@ -92,7 +92,4 @@ You control what you see.
 
 
 Feel free to connect! I’d love feedback or collaboration ideas.
-
-
-> Replace this with a real image of your dashboard:
 
